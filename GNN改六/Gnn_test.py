@@ -3,7 +3,8 @@ import math
 import threading
 from threading import Timer
 
-from pynput.keyboard import Controller, Key, Listener
+#from pynput.keyboard import Controller, Key, Listener
+#这里暂时注释掉
 
 from Ideal import root
 from config_test import *
